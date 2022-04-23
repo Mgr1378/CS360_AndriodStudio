@@ -13,6 +13,14 @@
  > order more of that item as soon as possible. 
 
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+1. Login screen
+2.	Create login screen
+3.	Main screen
+4.	Add, Change, or Remove screen
+5.	Display inventory screen
+> When loading the app, the first screen any user will see is the login screen, where they will be asked for their login information. If the user does not > > have a login, they can create one by clicking the create new login button which will take them to a new screen to complete the login creation. Once the > > > user is logged in, they will be taken to the main screen that will contain a list of buttons that they are allowed to see by the admin. If the user is > > > allowed to see all the buttons, they will see buttons that will allow them to Add, Change, Remove, or Display items in the inventory. Once a user selects > > the action, they wish to perform the app will open a new screen that will allow the user to continue with the action that they have selected. For example, > if the user was to select the Add item button, the screen would change to allow the user to add an item to the inventory, on this screen to user would be   > asked for information about the item they wish to add to inventory, such as name of item, description of item, how many of the item they have on hand. > > > After the user answers all the questions about the new item there will be to buttons at the button of the screen that ask the user if they would like to > > save the item or cancel the request to add new item. That will be the same basic layout for the change item button and the remove item button. The display > all button will take the user to a new screen that will display all the inventory with the quantity of each item that is in the inventory. And at anytime > > the user can press the menu button at the top left-hand side of any screen for a drop-down menu to move from screen to screen with out having to move back > to the main page. The upper right-hand side of every screen will contain a logout button for when the user wants to logout.
+
+
 
 ## How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
