@@ -1,12 +1,12 @@
 # CS360_AndriodStudio
 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-1. a.	Keep data secure by requiring login
-2. b.	Track all items that are in the inventory
-3. c.	Add or Remove items from inventory when required
-4. d.	Change number of items in inventory if required
-5. e.	Notify user when inventory has been reduced to 0
-6. f.	Display all inventory 
+1. Keep data secure by requiring login
+2. Track all items that are in the inventory
+3. Add or Remove items from inventory when required
+4. Change number of items in inventory if required
+5. Notify user when inventory has been reduced to 0
+6. Display all inventory 
 - > The goals listed above will be the main purpose of the app. We will keep the data secure by requiring the user to login
 - > to the system before they are able to see any of the information. We will keep track of all new and old inventory, if 
 - > it has not been removed from the list. We will notify the user if or when an item has been reduced to 0 so they can 
