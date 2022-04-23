@@ -1,6 +1,13 @@
 # CS360_AndriodStudio
 
 ## Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+> a.	Keep data secure by requiring login
+> b.	Track all items that are in the inventory
+> c.	Add or Remove items from inventory when required
+> d.	Change number of items in inventory if required
+> e.	Notify user when inventory has been reduced to 0
+> f.	Display all inventory 
+>     The goals listed above will be the main purpose of the app. We will keep the data secure by requiring the user to login to the system before they are able to see any of the information. We will keep track of all new and old inventory, if it has not been removed from the list. We will notify the user if or when an item has been reduced to 0 so they can order more of that item as soon as possible. 
 
 ## What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
